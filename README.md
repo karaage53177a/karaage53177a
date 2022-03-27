@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karaage53177a
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karaage53177a&layout=compact&theme=dark
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img alt="Top Langs" width="500px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karaage53177a&layout=compact&show_icons=true&theme=dracula" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karaage53177a&layout=compact&show_icons=true&theme=dracula" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=karaage53177a&theme=dracula&show_icons=ture" />
 </p>
 

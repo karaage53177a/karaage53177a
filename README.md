@@ -1,5 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karaage53177a&layout=compact&theme=dark
-)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karaage53177a&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=karaage53177a&theme=onedark&show_icons=ture" />
+</p>
 
 <!--
 **karaage53177a/karaage53177a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

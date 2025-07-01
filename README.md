@@ -31,6 +31,7 @@ Dreaming my f**king hobby projects will become my real job someday.
 ![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=plastic&logo=dotnet&logoSize=auto)
 ![Blazor](https://img.shields.io/badge/-Blazor-%23512BD4?style=plastic&logo=blazor)
 ![Unity](https://img.shields.io/badge/-Unity-white?style=plastic&logo=unity&logoColor=black)
+![Static Badge](https://img.shields.io/badge/-DX%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA-purple?style=plastic)
 
 ## Databases
 ![MariaDB](https://img.shields.io/badge/-MariaDB-%23003545?style=plastic&logo=mariadb&logoColor=white&logoSize=auto)
@@ -49,11 +50,20 @@ Dreaming my f**king hobby projects will become my real job someday.
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=plastic&logo=Linux&logoColor=black)
 ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-%23E95420?style=plastic&logo=Ubuntu&logoColor=white)
 
-## On-premises
-![PowerEdge](https://img.shields.io/badge/-Dell%20EMC%20PowerEdge-%23007DB8?style=plastic&logo=dell&logoColor=white&logoSize=auto)
+## Homelab
+### Server
+![PowerEdge R440](https://img.shields.io/badge/-Dell%20EMC%20PowerEdge%20R440-%23007DB8?style=plastic&logo=dell&logoColor=white&logoSize=auto)
+![PowerEdge R730](https://img.shields.io/badge/-Dell%20EMC%20PowerEdge%20R730-%23007DB8?style=plastic&logo=dell&logoColor=white&logoSize=auto)
+![Raspberry Pi 4b](https://img.shields.io/badge/-Raspberry%20Pi%204b-%23A22846?style=plastic&logo=raspberrypi&logoColor=white&logoSize=auto)
+![Raspberry Pi 3b](https://img.shields.io/badge/-Raspberry%20Pi%203b-%23A22846?style=plastic&logo=raspberrypi&logoColor=white&logoSize=auto)
+![TS-2210](https://img.shields.io/badge/-SEIKO%20Time%20Server%20TS%E3%83%BC2210-white?style=plastic)
+### System
 ![Proxmox VE](https://img.shields.io/badge/-Proxmox%20Virtual%20Environment-%23E57000?style=plastic&logo=proxmox&logoColor=white)
 ![LXC](https://img.shields.io/badge/-Linux%20Containers-%23333333?style=plastic&logo=linuxcontainers&logoColor=white)
-
+### Network
+![RTX830](https://img.shields.io/badge/-YAMAHA%20RTX%20830-%234B1E78?style=plastic&logo=yamahacorporation&logoColor=white)
+![RTX1200](https://img.shields.io/badge/-YAMAHA%20RTX%201200-%234B1E78?style=plastic&logo=yamahacorporation&logoColor=white)
+![aruba 2530 48g l2sw](https://img.shields.io/badge/-Aruba%202530%2048G%20Switch-%230096D6?style=plastic&logo=hp&logoColor=white)
 ## Self hosting
 ![NextCloud](https://img.shields.io/badge/-NextCloud-%230082C9?style=plastic&logo=nextcloud&logoSize=auto)
 ![OMV](https://img.shields.io/badge/-openmediavault-%235DACDF?style=plastic&logo=openmediavault&logoColor=white&logoSize=auto)

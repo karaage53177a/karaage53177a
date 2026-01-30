@@ -7,6 +7,7 @@
 ## Rules and Conventions
 - Profile content (README.md) must be written in English
 - Commit messages must be written in Japanese
+- PR descriptions and reviews must be written in Japanese
 - Use Semantic Commit Messages (e.g., `✨ feat:`, `🐛 fix:`, `📝 docs:`)
 
 ## Scope Limitations

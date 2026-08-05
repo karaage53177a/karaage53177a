@@ -10,7 +10,3 @@
 -->
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karaage53177a&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-- 🔭 I’m currently under development on Creator marketplace web service (Still a secret project)...
-- 🌱 I’m currently learning [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet), [EF Core](https://github.com/dotnet/efcore), [Stripe](https://stripe.com), [PostgreSQL](https://www.postgresql.org), [InterSystems IRIS](https://www.intersystems.com/jp/products/intersystems-iris)
-- 📫 How to reach me: [Here!](https://age5317.net/Contact)

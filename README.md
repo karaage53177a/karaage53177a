@@ -9,4 +9,8 @@
 ![trophy](https://github-profile-trophy-tawny.vercel.app/?username=karaage53177a&theme=onedark&column=9)
 -->
 
+<!--
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karaage53177a&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+
+![3d-contrib](https://raw.githubusercontent.com/karaage53177a/karaage53177a/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
